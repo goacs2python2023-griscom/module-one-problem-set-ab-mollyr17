@@ -1,4 +1,4 @@
-def rtn_sq(x):
+def square(x):
     return x**2
 
-print (rtn_sq(12))
+print (square(12))
